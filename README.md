@@ -13,3 +13,5 @@
 ### 1️⃣ Клонирование репозитория
 - git clone https://github.com/your_username/quiz-bot.git
 - cd quiz-bot
+### 2️⃣ Установка зависимостей
+- pip install -r requirements.txt
