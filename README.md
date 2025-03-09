@@ -11,5 +11,5 @@
 # 🛠 Установка и запуск
 
 ### 1️⃣ Клонирование репозитория
- git clone https://github.com/your_username/quiz-bot.git
-cd quiz-bot
+- git clone https://github.com/your_username/quiz-bot.git
+- cd quiz-bot
